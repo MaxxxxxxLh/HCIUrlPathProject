@@ -1,0 +1,7 @@
+.remove-link-icon {
+    margin-left: 5px; /* Espace à gauche de l'icône */
+    cursor: pointer; /* Curseur pointer pour indiquer que c'est cliquable */
+    color: red; /* Couleur de l'icône */
+    font-size: 14px; /* Taille de la police de l'icône */
+  }
+  
